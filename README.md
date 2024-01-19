@@ -19,6 +19,20 @@ rm -rf .git
 git init
 ~~~
 
+## Install UI Frameworks
+
+### Material UI (MUI) [🔗](https://mui.com/material-ui/getting-started/installation/)
+
+~~~bash
+pnpm add @mui/material @emotion/react @emotion/styled
+~~~
+
+### Grommet [🔗](https://v2.grommet.io/components)
+
+~~~bash
+pnpm add grommet grommet-icons styled-components
+~~~
+
 ## Set Up IDEs
 
 ### Jetbrains (IntelliJ IDEA, Webstorm, etc)
